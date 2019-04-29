@@ -28,7 +28,7 @@ On top of the standard Markdown, a number of extensions are implemented. These a
 To annotate a code block so that it will be copied to the terminal and executed, use:
 
 <pre><code>```execute
-echo upper
+echo upper oc get pods
 ```</code></pre>
 
 Using this, we have:
