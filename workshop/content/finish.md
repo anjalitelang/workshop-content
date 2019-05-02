@@ -1,22 +1,13 @@
 ---
 Sort: 3
-Title: Workshop Summary
-PrevPage: exercises/10-presenter-slides
-ExitSign: Finish Workshop
+Title: Summary
+PrevPage: exercises/lab1.md
+ExitSign: Finish
 ---
 
-This is the end of the workshop. On this page it is a good idea to provide a summary of the workshop and any links to resources relevant to the workshop. This provides to anyone doing the workshop material they can research later to learn more.
+This is the end of the lab. To learn more about our OpenShift Dedicated offering, visit us at:
 
-The link for this sample workshop content can be found at:
+* https://www.openshift.com/products/dedicated/
 
-* https://github.com/openshift-labs/workshop-content
-
-The workshop content is use to create a custom image deriving from the workshop dashboard image found at:
-
-* https://github.com/openshift-labs/workshop-dashboard
-
-The workshop can be deployed standalone follow instructions in that repository.
-
-Alternatively, if you need to deploy a workshop for multiple users, you need to use the workshop spawner found at:
-
-* https://github.com/openshift-labs/workshop-spawner
+Check out Developer guide to create more amazing applications at
+* https://access.redhat.com/documentation/en-us/openshift_dedicated/3/html/developer_guide/index
